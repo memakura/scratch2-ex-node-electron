@@ -1,0 +1,9 @@
+{
+  "build": {
+    "appId": "com.electron.scratch2-ex"
+  },
+  "devDependencies": {
+    "electron": "^1.8.4",
+    "electron-builder": "^20.8.1"
+  }
+}
